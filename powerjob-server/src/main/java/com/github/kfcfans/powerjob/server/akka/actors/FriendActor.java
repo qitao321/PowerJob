@@ -14,7 +14,7 @@ import java.util.Map;
  * 处理朋友们的信息（处理服务器与服务器之间的通讯）
  *
  * @author tjq
- * @since 2020/4/9
+ * @since 2020/4/10
  */
 @Slf4j
 public class FriendActor extends AbstractActor {
